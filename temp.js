@@ -9,5 +9,5 @@ console.log(message);
 
 const mySon = "Luke";
 const parentalStatus = "father";
-const message = `${Luke}, I am your ${father}`;
+const message = `${mySon}, I am your ${parentalStatus}`;
 console.log(message);
